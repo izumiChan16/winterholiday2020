@@ -1,0 +1,2 @@
+E:\winterholiday2020\x64\Debug\winter.exe
+E:\winterholiday2020\x64\Debug\winter.pdb
