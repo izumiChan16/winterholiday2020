@@ -1,9 +1,0 @@
-
-*.db
-*.db-shm
-*.db-wal
-*.sqlite
-*.opendb
-*.sqlite
-*.sqlite
-.vs/slnx.sqlite

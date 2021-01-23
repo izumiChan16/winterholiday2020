@@ -1,6 +1,0 @@
-﻿  9.11.1.c
-E:\winterholiday2020\9.11.1.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-E:\winterholiday2020\9.11.1.c(10,11): warning C4013: “system”未定义；假设外部返回 int
-E:\winterholiday2020\9.11.1.c(7,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-MSVCRTD.lib(exe_winmain.obj) : error LNK2019: 无法解析的外部符号 _WinMain@16，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-E:\winterholiday2020\Debug\winter.exe : fatal error LNK1120: 1 个无法解析的外部命令
